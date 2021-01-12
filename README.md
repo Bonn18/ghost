@@ -39,6 +39,7 @@ gives you the power and convenience of remote Android device administration.
 
 # Getting started
 
+<<<<<<< HEAD
 <details>
 <summary>Ghost installation</summary>
   
@@ -47,11 +48,16 @@ To install Ghost Framework you should
 execute the following commands.
 ```
   
+=======
+## Ghost installation
+
+>>>>>>> parent of a368470... Update README.md
 > cd ghost
 
 > chmod +x install.sh
 
 > ./install.sh
+<<<<<<< HEAD
   
 </details>
 
@@ -62,14 +68,21 @@ execute the following commands.
 To uninstall Ghost Framework you should
 execute the following commands.
 ```
+=======
+
+## Ghost uninstallation
+>>>>>>> parent of a368470... Update README.md
 
 > cd ghost
 
 > chmod +x uninstall.sh
 
 > ./uninstall.sh
+<<<<<<< HEAD
 
 </details>
+=======
+>>>>>>> parent of a368470... Update README.md
 
 ***
 
